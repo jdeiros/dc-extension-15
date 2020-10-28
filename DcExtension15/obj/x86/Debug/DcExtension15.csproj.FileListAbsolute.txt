@@ -1,0 +1,8 @@
+D:\Proyectos\Software\DcExtension15\DcExtension15\bin\Debug\DcExtension15.exe
+D:\Proyectos\Software\DcExtension15\DcExtension15\bin\Debug\DcExtension15.pdb
+D:\Proyectos\Software\DcExtension15\DcExtension15\obj\x86\Debug\DcExtension15.Properties.Resources.resources
+D:\Proyectos\Software\DcExtension15\DcExtension15\obj\x86\Debug\DcExtension15.csproj.GenerateResource.Cache
+D:\Proyectos\Software\DcExtension15\DcExtension15\obj\x86\Debug\DcExtension15.exe
+D:\Proyectos\Software\DcExtension15\DcExtension15\obj\x86\Debug\DcExtension15.pdb
+D:\Proyectos\Software\DcExtension15\DcExtension15\obj\x86\Debug\DcExtension15.frmDcExtension.resources
+D:\Proyectos\Software\DcExtension15\DcExtension15\obj\x86\Debug\DcExtension15.csprojResolveAssemblyReference.cache
